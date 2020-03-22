@@ -1,0 +1,22 @@
+{
+  "name": "dog-website-api",
+  "version": "1.0.0",
+  "description": "api for dog website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HSMJ/Dog-Website-api.git"
+  },
+  "author": "Michael Jacobs, Hayden Sharkey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HSMJ/Dog-Website-api/issues"
+  },
+  "homepage": "https://github.com/HSMJ/Dog-Website-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
